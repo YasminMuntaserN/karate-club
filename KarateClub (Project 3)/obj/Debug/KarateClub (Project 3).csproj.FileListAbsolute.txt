@@ -1,0 +1,98 @@
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).csproj.AssemblyReference.cache
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Properties.Resources.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).csproj.GenerateResource.cache
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).csproj.CoreCompileInputs.cache
+G:\C#\KarateClub (Project 3)\bin\Debug\KarateClub (Project 3).exe.config
+G:\C#\KarateClub (Project 3)\bin\Debug\KarateClub (Project 3).exe
+G:\C#\KarateClub (Project 3)\bin\Debug\KarateClub (Project 3).pdb
+G:\C#\KarateClub (Project 3)\bin\Debug\Guna.UI.dll
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateCl.590FE68B.Up2Date
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).exe
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).pdb
+G:\C#\KarateClub (Project 3)\bin\Debug\Karate_Bussiness.dll
+G:\C#\KarateClub (Project 3)\bin\Debug\Karate_DataAccsess.dll
+G:\C#\KarateClub (Project 3)\bin\Debug\Karate_Bussiness.pdb
+G:\C#\KarateClub (Project 3)\bin\Debug\Karate_DataAccsess.pdb
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Person.ctrlPersonCard.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Person.frmAddEditPerson.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Member.frmAddEditMember.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Person.ctrlPersonCardWithFilter.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Member.ctrlMemberCard.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Person.frmShowMemberInfo.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.frmAddEditInstructor.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.ctrlInstructorCard.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.frmShowInstructorInfo.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Subscription_Period.frmAddEditSubscriptionPeriod.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Member.User_Control.ctrlMemberCardWithFilter.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.MemberInstructors.frmAddEditMemberInstructors.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.MemberInstructors.frmTrainedMembersByInstructorList.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.MemberInstructors.frmMemberInstructorsList.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.frmMain.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Home.frmMemberList.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Member.frmHistory.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.frmInstructorList.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.ctrlUserCard.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmAddEditUser.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmShowPermissions.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmChangePassword.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmShowUserInfo.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmListUsers.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Belt_Rank.frmListBeltRank.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Belt_Rank.frmEditBeltRank.resources
+G:\C#\KarateClub (Project 3)\bin\Debug\Guna.UI2.dll
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Belt_Tests.frmAddBeltTest.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.ctrlInstructorCardWithFilter.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Belt_Tests.frmListBeltTests.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Subscription_Period.frmListSubscriptionPeriod.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Payments.frmPaymentsList.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Log_in.frmLogin.resources
+G:\C#\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Dashboard.frmDashboard.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\KarateClub (Project 3).exe.config
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\KarateClub (Project 3).exe
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\KarateClub (Project 3).pdb
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\Guna.UI.dll
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\Guna.UI2.dll
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\Karate_Bussiness.dll
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\Karate_DataAccsess.dll
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\Karate_Bussiness.pdb
+G:\C#\Karate Club System\KarateClub (Project 3)\bin\Debug\Karate_DataAccsess.pdb
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).csproj.AssemblyReference.cache
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Belt_Rank.frmListBeltRank.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Belt_Rank.frmEditBeltRank.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Belt_Tests.frmAddBeltTest.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Belt_Tests.frmListBeltTests.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Dashboard.frmDashboard.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.frmMain.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.ctrlInstructorCardWithFilter.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.frmInstructorList.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Log_in.frmLogin.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Home.frmMemberList.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.ctrlInstructorCard.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.frmAddEditInstructor.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Instructors.frmShowInstructorInfo.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.MemberInstructors.frmAddEditMemberInstructors.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.MemberInstructors.frmMemberInstructorsList.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.MemberInstructors.frmTrainedMembersByInstructorList.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Member.frmHistory.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Member.ctrlMemberCard.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Member.frmAddEditMember.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Member.User_Control.ctrlMemberCardWithFilter.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Payments.frmPaymentsList.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Person.ctrlPersonCard.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Person.ctrlPersonCardWithFilter.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Person.frmAddEditPerson.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Person.frmShowMemberInfo.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Properties.Resources.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Subscription_Period.frmAddEditSubscriptionPeriod.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Subscription_Period.frmListSubscriptionPeriod.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.ctrlUserCard.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmAddEditUser.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmChangePassword.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmListUsers.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmShowPermissions.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub__Project_3_.Users.frmShowUserInfo.resources
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).csproj.GenerateResource.cache
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).csproj.CoreCompileInputs.cache
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateCl.590FE68B.Up2Date
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).exe
+G:\C#\Karate Club System\KarateClub (Project 3)\obj\Debug\KarateClub (Project 3).pdb

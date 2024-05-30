@@ -1,0 +1,18 @@
+G:\C#\Karate_Bussiness\bin\Debug\Karate_Bussiness.dll
+G:\C#\Karate_Bussiness\bin\Debug\Karate_Bussiness.pdb
+G:\C#\Karate_Bussiness\bin\Debug\Karate_DataAccsess.dll
+G:\C#\Karate_Bussiness\bin\Debug\Karate_DataAccsess.pdb
+G:\C#\Karate_Bussiness\obj\Debug\Karate_Bussiness.csproj.AssemblyReference.cache
+G:\C#\Karate_Bussiness\obj\Debug\Karate_Bussiness.csproj.CoreCompileInputs.cache
+G:\C#\Karate_Bussiness\obj\Debug\Karate_B.69312E5B.Up2Date
+G:\C#\Karate_Bussiness\obj\Debug\Karate_Bussiness.dll
+G:\C#\Karate_Bussiness\obj\Debug\Karate_Bussiness.pdb
+G:\C#\Karate Club System\Karate_Bussiness\bin\Debug\Karate_Bussiness.dll
+G:\C#\Karate Club System\Karate_Bussiness\bin\Debug\Karate_Bussiness.pdb
+G:\C#\Karate Club System\Karate_Bussiness\bin\Debug\Karate_DataAccsess.dll
+G:\C#\Karate Club System\Karate_Bussiness\bin\Debug\Karate_DataAccsess.pdb
+G:\C#\Karate Club System\Karate_Bussiness\obj\Debug\Karate_Bussiness.csproj.AssemblyReference.cache
+G:\C#\Karate Club System\Karate_Bussiness\obj\Debug\Karate_Bussiness.csproj.CoreCompileInputs.cache
+G:\C#\Karate Club System\Karate_Bussiness\obj\Debug\Karate_B.69312E5B.Up2Date
+G:\C#\Karate Club System\Karate_Bussiness\obj\Debug\Karate_Bussiness.dll
+G:\C#\Karate Club System\Karate_Bussiness\obj\Debug\Karate_Bussiness.pdb
