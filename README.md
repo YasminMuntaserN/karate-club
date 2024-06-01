@@ -33,4 +33,4 @@ Karate Club Management System is built using the following technologies:
 <p>User Interface :WinForms</p>
 <p>Integrated Development Environment :Visual Studio</p>
 </br>
-<p>To see a demo of the project <a style="margin-left: 40px;" target="_blank" href="https://youtu.be/vBZQVXpOF1s">click here</a></p>
+<p>To see a demo of the project <a style="margin-left: 40px;" target="_blank" href="https://youtu.be/02yzk_lNyPg">click here</a></p>
