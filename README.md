@@ -28,7 +28,7 @@ Allow members to make payments for subscriptions and tests.
 Karate Club Management System is built using the following technologies:
 <p>Programming Language :C#</p>
 <p>Framework: .NET Framework</p>
-<p>Database : Ms SQL Server</p>
+<p>Database :SQL Server</p>
 <p>Data Access :ADO.NET</p>
 <p>User Interface :WinForms</p>
 <p>Integrated Development Environment :Visual Studio</p>
